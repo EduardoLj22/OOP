@@ -1,4 +1,4 @@
-# OOP-1
+# OOP
 
 This project is a Node.js application that uses object-oriented programming principles to generate an SVG logo based on user input. The application allows users to create logos with different shapes and colors through a command-line interface.
 
